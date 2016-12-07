@@ -1,0 +1,17 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, ‘8.0’
+
+target ‘BlackNoise’ do
+pod 'AFNetworking'
+pod 'Masonry'
+pod 'YYModel'
+pod 'YYText'
+pod 'MJRefresh'
+pod 'FMDB'
+pod 'YYCache'
+pod 'SDWebImage'
+pod ‘DZNEmptyDataSet’
+pod ‘UIImage-Helpers’
+pod ‘UIImage+BlurredFrame’
+#pod 'MLeaksFinder'
+end
