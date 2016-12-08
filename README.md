@@ -1,6 +1,6 @@
 # BlackNoise
 
-BlackNoise 是一个潮汐(Tide)App的高仿。
+BlackNoise 是一个[潮汐(Tide)](https://appsto.re/cn/Djzpab.i)App的高仿。
 
 > 潮汐(Tide)是一款美好的番茄闹钟与白噪音应用，即可使用简单好用的番茄闹钟，也可以很优雅的收听白噪音音乐，有了「潮汐」，那些创造美好的人们可以更高效、更专注地进行创造、工作和生活。
 
@@ -49,8 +49,10 @@ BlackNoise 是一个潮汐(Tide)App的高仿。
 
 ---
 ##### 功能展示
-
-
+![image](https://github.com/kingandyoga/BlackNoise/blob/master/BlackNoise/GIF/%E6%93%8D%E4%BD%9C.gif) 
+![image](https://github.com/kingandyoga/BlackNoise/blob/master/BlackNoise/GIF/%E6%BB%91%E5%8A%A8.gif)
+![image](https://github.com/kingandyoga/BlackNoise/blob/master/BlackNoise/GIF/%E8%BD%AC%E5%9C%BA.gif)
+![image](https://github.com/kingandyoga/BlackNoise/blob/master/BlackNoise/GIF/%E9%80%89%E6%8B%A9%E5%99%A8.gif)
 
 ---
 ##### 未来完善的功能
